@@ -1,0 +1,20 @@
+body{
+  background-image:url("https://scontent.xx.fbcdn.net/v/t1.0-9/13621005_168409416909255_6515904372642827480_n.jpg?oh=754d93621877e811b5033b2665c95227&oe=57F8FD78");
+    font-family: verdana;
+}
+.div1{
+  color:red;
+}
+h3{
+  background:lightgrey;
+}
+div{
+  max-width:700px;
+  background:grey;
+}
+h4{
+    background:lightgrey;
+}
+h2{
+  background-color:#ff4d4d;
+}
